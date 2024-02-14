@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=D:\Hyperverge_project-Fine-tuning-LLMs-\hyper
+set VIRTUAL_ENV=C:\Users\annar\OneDrive\Desktop\Visual Studio\GitHub\Hyperverge\Fine-tuning-LLMs\hyper
 
 if not defined PROMPT set PROMPT=$P$G
 
